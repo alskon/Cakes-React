@@ -1,0 +1,12 @@
+.navList li a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.navList li a:hover {
+    color:brown;
+}
+.navList li img {
+    width:140px;
+}

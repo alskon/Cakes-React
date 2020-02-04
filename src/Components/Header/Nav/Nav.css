@@ -1,0 +1,8 @@
+.navigation {
+    list-style: none;
+    background-color: coral;
+    margin: 0;
+    display: grid;
+    grid-template-columns:repeat(5, 1fr);
+    align-items: center;
+}

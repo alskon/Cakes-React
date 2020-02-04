@@ -1,0 +1,22 @@
+
+.btnPrevNext {
+    display: inline-block;
+    padding: 5px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.btnPrevNext a {
+    text-decoration: none;
+    padding: 0 10px;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    line-height: 40px;
+    color: white;
+    background-color: gray;
+}
+    
+
+.btnPrevNext a:hover {
+    cursor: pointer;
+}

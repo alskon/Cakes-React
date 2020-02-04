@@ -1,0 +1,56 @@
+.mainArticle {
+    text-align: center;
+}
+
+.mainArticle Section {
+    font-size: 20px;
+    margin: 10px 0;
+    padding: 20px;
+    text-align: center;
+    font-weight: 500;
+    text-shadow: 1px 1px 5px black;
+    border: solid;
+    border-image-source: url(../../img/6720328.png);
+    border-image-slice: 5%;
+    border-image-width: 10px 20px;
+    border-image-repeat: stretch;
+    border-image-outset:10px;
+}
+.divGalleryContact {
+    display: grid;
+    padding: 50px;
+    background:beige;
+    grid-template-columns: 1fr 1fr;
+
+}
+.divGalleryContact Section {
+    background:beige;
+    text-align: center;
+}
+.galleryWork {
+    border: 1px black solid;
+    border-right: none;
+}
+.contacts {
+    text-align: center;
+    border: 1px black solid;
+}
+.reviews {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    background-color: bisque;
+    margin-bottom: 10px;
+    border: solid;
+    border-image-source: url(../../img/6720328.png);
+    border-image-slice: 5%;
+    border-image-width: 10px 20px;
+    border-image-repeat: stretch;
+    border-image-outset:10px;
+    position: relative;
+}
+.reviewDecor {
+    padding: 10px;
+    min-height: 180px;
+    text-align: center;
+}

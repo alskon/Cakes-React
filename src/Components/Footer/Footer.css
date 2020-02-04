@@ -1,0 +1,22 @@
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1.7fr 1fr;
+    border: 5px dotted gray;
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+}
+.socialLink {
+    display: grid;
+    list-style: none;
+    grid-template-columns: 1fr 1fr;
+}
+.socialLinkInstagram {
+    text-align: right;
+}
+.socialLinkVk {
+    text-align: left;
+}
+.Copyright {
+    font-size: 12px;
+}

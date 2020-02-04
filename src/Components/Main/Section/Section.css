@@ -1,0 +1,8 @@
+section {
+    background-color: rgb(255, 228, 196);
+    text-shadow: 1px 1px 5px black;
+    margin: 0;
+}
+section h2 {
+    margin: 5px;
+}
